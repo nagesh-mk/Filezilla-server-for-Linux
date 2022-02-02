@@ -7,4 +7,4 @@ Run file as executable use below command
 
 
 Download Filezilla-server for Debian Based 
-[Filezilla server_debian](https://github.com/nagesh-mk/Filezilla-server-for-Linux/raw/file/FileZilla_Server_1.2.0_x86_64-linux-gnu.deb)
+[FileZilla-server-x86Debian.deb](https://github.com/nagesh-mk/Filezilla-server-for-Linux/raw/file/FileZilla_Server_1.2.0_x86_64-linux-gnu.deb)
